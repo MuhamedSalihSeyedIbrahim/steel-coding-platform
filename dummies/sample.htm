@@ -1,0 +1,89 @@
+<html lang="en"><head>
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				<meta charset="utf-8"> 
+		<style>
+		
+		
+
+	
+                                  
+		
+		
+		
+		#para{bottom:10%px;position:fixed; border:1px solid red;}
+		</style>
+		 <link rel="stylesheet" href="lib/codemirror.css">
+        <script src="lib/codemirror.js"></script>
+        <script src="mode/javascript/javascript.js"></script>
+        <script src="addon/fold/foldcode.js"></script>
+		</head>
+		<body>
+		
+		
+		
+
+		
+		<div style="width:50%; border:solid 1px black;">
+		<textarea id="code" style="display: none;"></textarea></div>
+		<button onclick="m();">sad</button>
+		<button onclick="reset();">reset</button>
+		</div>
+		<input type=" text" id="para" value=" " name="er" disabled>
+				
+		<script>
+		
+var nonEmpty = false;
+var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+  mode: "javascript",
+  styleActiveLine: true,
+  lineNumbers: true,
+  lineWrapping: true,
+  rtlMoveVisually: true,
+  tabSize: 50,
+  smartIndent:true,
+  viewportMargin: 10,
+
+
+});
+function m()
+{
+var text=editor.getValue();
+alert(text);
+var t=$("#sel1").val();
+alert(t);
+$("#para").val(text);
+}
+
+function reset()
+{
+editor.setValue("");
+editor.clearHistory();
+// cm.clearGutter("gutterId"); 
+}
+
+
+
+
+
+
+
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+		</script>
+		
+		</body></html>

@@ -1,0 +1,60 @@
+#photo{
+				width:30px;
+			  height:30px;
+			  border-radius:4px;
+			  padding:0px;
+			  margin:0px;
+			  border-bottom-width: 100px;
+			  padding-top: 0px;
+		    border-top-width: 0px;
+			}
+
+.nav_bar{
+				    height: 41px;
+				    margin-bottom: 0px;
+				}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    															text-decoration: none;
+    															background-color: #222222;
+																 }
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+																											 background-color: #222;
+																									   	 border-color: #337ab7;
+																											 color:white;
+																											}
+.codeadminboard{
+								  width: 804px;
+							    border: 2px solid darkgray;
+							    border-radius: 20px;
+								}
+
+
+
+								.CodeMirror{
+															border-top: 1px solid black;
+															border-bottom: 1px solid black;
+															height: 349px;
+															border-radius:15px;
+														}
+								.CodeMirror-focused .cm-matchhighlight{
+																													background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFklEQVQI12NgYGBgkKzc8x9CMDAwAAAmhwSbidEoSQAAAABJRU5ErkJggg==);
+																													background-position: bottom;
+																													background-repeat: repeat-x;
+																										}
+								.cm-matchhighlight{
+																	 background-color: lightgreen;
+																	}
+								.CodeMirror-selection-highlight-scrollbar{
+																													background-color: green
+																												}
+								.code-op-style{
+    															position: relative;
+																	border:solid 1px black;
+																	border-radius:px;
+																	height:350px;
+																	width:100%;
+																	position: relative;
+																	border-radius:15px;
+																	text-align:left;
+														}
