@@ -6,10 +6,10 @@
     
     The app compose of modules: 
                             *) Dashboard
-                            *) challenges <br/>
-                            *) code exuction<br/>
-                            *) score Allocation and maintainance<br/>
-                            *) challenge manager<br/>
+                            *) challenges
+                            *) code exuction
+                            *) score Allocation and maintainance
+                            *) challenge manager
                             *) daily challenge manager
 
 #Functionalities:<br/>
