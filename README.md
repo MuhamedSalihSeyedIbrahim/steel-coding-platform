@@ -4,8 +4,8 @@
 #Description:<br/>
     It is a webapp with full interface for coding pratice.<br/>
     
-    The app compose of modules: <br/>
-                            *) Dashboard<br/>
+    The app compose of modules: 
+                            *) Dashboard
                             *) challenges <br/>
                             *) code exuction<br/>
                             *) score Allocation and maintainance<br/>
