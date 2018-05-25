@@ -13,35 +13,35 @@
 
 #Functionalities:<br/>
     The core functionalities are<br/>
-                *) challenges management
-                *) Code posting
-                *) daily challenge time control
-                *) normal pratice code management
-                *) dashboard controller
-                *) Leaderboard for daily and normal code
+                *) challenges management<br/>
+                *) Code posting<br/>
+                *) daily challenge time control<br/>
+                *) normal pratice code management<br/>
+                *) dashboard controller<br/>
+                *) Leaderboard for daily and normal code<br/>
  
 #Technology Stack:<br/>
-    Technologies Used are
-      Front End technology:
-        *)HTML
-        *)CSS
-        *)JavaScript
-        *)FrameWork:
-              *) BootStrap v3
+    Technologies Used are<br/>
+      Front End technology:<br/>
+        *)HTML<br/>
+        *)CSS<br/>
+        *)JavaScript<br/>
+        *)FrameWork:<br/>
+              *) BootStrap v3<br/>
               
-      Back End technology:
-        *)PHP
-        *)MYSQL
+      Back End technology:<br/>
+        *)PHP<br/>
+        *)MYSQL<br/>
       
-      Other Technologies used:
-        *) Firebase Authentication system
-        *) Hackerrank API 
+      Other Technologies used:<br/>
+        *) Firebase Authentication system<br/>
+        *) Hackerrank API <br/>
         
-#Requirements:
-    *)Browser - Chrome | IE | FIREFOX
-    *)Apache Server | XAMPP
-    *)PHP 
-    *)1GB RAM
+#Requirements:<br/>
+    *)Browser - Chrome | IE | FIREFOX <br/>
+    *)Apache Server | XAMPP <br/>
+    *)PHP <br/>
+    *)1GB RAM <br/>
     
         
    
