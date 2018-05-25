@@ -5,12 +5,12 @@
     It is a webapp with full interface for coding pratice.
     
     The app compose of modules: 
-                            *) Dashboard
-                            *) challenges
-                            *) code exuction
-                            *) score Allocation and maintainance
-                            *) challenge manager
-                            *) daily challenge manager
+                *) Dashboard
+                *) challenges
+                *) code exuction
+                *) score Allocation and maintainance
+                *) challenge manager
+                *) daily challenge manager
 
 #Functionalities:
     
@@ -25,36 +25,36 @@
 #Technology Stack:
     Technologies Used are
       
-      Front End technology:
-        *)HTML
-        *)CSS
-        *)JavaScript
-        *)FrameWork:
-              *) BootStrap v3
-      
-      Back End technology:
-        *)PHP
-        *)MYSQL
-      
-      Other Technologies used:
-        *) Firebase Authentication system
-        *) Hackerrank API 
+              Front End technology:
+                *)HTML
+                *)CSS
+                *)JavaScript
+                *)FrameWork:
+                      *) BootStrap v3
+
+              Back End technology:
+                *)PHP
+                *)MYSQL
+
+              Other Technologies used:
+                *) Firebase Authentication system
+                *) Hackerrank API 
         
 #Requirements:<br/>
     
-    *)Browser - Chrome | IE | FIREFOX
-    *)Apache Server | XAMPP 
-    *)PHP 
-    *)1GB RAM 
+                *)Browser - Chrome | IE | FIREFOX
+                *)Apache Server | XAMPP 
+                *)PHP 
+                *)1GB RAM 
     
 #How to locally use it
 
-    *)Download the source code 
-    *)extract to the folder and rename it to "local_ground" 
-    *)Place the folder into apache's HTTPDOCS folder
-    *)start apache server 
-    *)You can access it by the url  
-        http://www.localhost:80/local_ground/index.php 
+                *)Download the source code 
+                *)extract to the folder and rename it to "local_ground" 
+                *)Place the folder into apache's HTTPDOCS folder
+                *)start apache server 
+                *)You can access it by the url  
+                    http://www.localhost:80/local_ground/index.php 
    
                                                       
                        
