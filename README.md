@@ -2,7 +2,7 @@
     coding ground application 
 
 #Description:
-    It is a webapp with full interface for coding pratice.
+    It is a webapp with full interface for coding practice.
     
     The app compose of modules: 
                 *) Dashboard
