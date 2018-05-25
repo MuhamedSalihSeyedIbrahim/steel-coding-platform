@@ -54,7 +54,7 @@
     *)Place the folder into apache's HTTPDOCS folder <br/>
     *)start apache server <br/>
     *)You can access it by the url  <br/>
-        HTTP://www.localhost:80/local_ground/index.php <br/>
+        http://www.localhost:80/local_ground/index.php <br/>
    
                                                       
                        
